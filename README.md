@@ -28,7 +28,7 @@ N/A
 
 ## Usage
 
-You can view the website via this link: [To be provided once deployed]
+You can view the website via this link: https://francis-gomes-esq.github.io/semantic-refactor/04-code-refactor-lesson/challenge/starter/index.html
 
 ## Credits
 
