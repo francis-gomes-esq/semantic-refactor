@@ -130,7 +130,9 @@ aside {
 	font-size: 36px;
 }
 
-.footer {
+/* This is the footer*/
+
+footer {
 	padding: 30px;
 	clear: both;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
@@ -138,6 +140,6 @@ aside {
 	text-align: center;
 }
 
-.footer h2 {
+footer h2 {
 	font-size: 20px;
 }
